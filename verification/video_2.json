@@ -1,0 +1,16 @@
+{
+  "status": "completed",
+  "error": null,
+  "source": "C:\\Users\\Beyza\\Desktop\\baretTespit\\test_videos\\baretsiz.mp4",
+  "kind": "video",
+  "model": "C:\\Users\\Beyza\\Documents\\Codex\\2026-09-21\\referenced-chatgpt-conversation-this-is-an\\outputs\\BaretTespit\\models\\best.pt",
+  "confidence": 0.5,
+  "frames": 646,
+  "fps": 25.0,
+  "elapsed_seconds": 50.89,
+  "detections_across_frames": {
+    "helmet": 1060,
+    "head": 249
+  },
+  "note": "Kareler toplamı benzersiz kişi sayısı değildir. Video ses içermez. Kamera kaydı nominal FPS ile yazılır; işleme hızına göre zaman ölçeği değişebilir."
+}

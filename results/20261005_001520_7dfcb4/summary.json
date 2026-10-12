@@ -1,0 +1,21 @@
+{
+  "status": "completed",
+  "error": null,
+  "source": "C:/Users/Beyza/Desktop/baretTespit/test_videos/baretsiz.mp4",
+  "kind": "video",
+  "model": "C:\\Users\\Beyza\\Desktop\\baretTespit\\models\\best.pt",
+  "confidence": 0.5,
+  "frames": 646,
+  "fps": 25.0,
+  "elapsed_seconds": 54.2,
+  "detections_across_frames": {
+    "head": 383,
+    "person": 799,
+    "helmet": 306,
+    "uncertain": 46,
+    "unknown": 64
+  },
+  "new_events": 1,
+  "session_id": "6086a14e-fa51-47d6-92da-3f7c60fdcede",
+  "note": "Kareler toplamı benzersiz kişi sayısı değildir. Video ses içermez. Kamera kaydı nominal FPS ile yazılır; işleme hızına göre zaman ölçeği değişebilir."
+}

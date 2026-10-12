@@ -1,0 +1,21 @@
+{
+  "status": "stopped",
+  "error": null,
+  "source": "0",
+  "kind": "camera",
+  "model": "C:\\Users\\Beyza\\Desktop\\baretTespit\\models\\best.pt",
+  "confidence": 0.5,
+  "frames": 164,
+  "fps": 30.0,
+  "elapsed_seconds": 22.22,
+  "detections_across_frames": {
+    "unknown": 46,
+    "person": 167,
+    "helmet": 85,
+    "head": 15,
+    "uncertain": 21
+  },
+  "new_events": 0,
+  "session_id": "beff11e4-2042-4579-9d3b-23df48c76369",
+  "note": "Kareler toplamı benzersiz kişi sayısı değildir. Video ses içermez. Kamera kaydı nominal FPS ile yazılır; işleme hızına göre zaman ölçeği değişebilir."
+}

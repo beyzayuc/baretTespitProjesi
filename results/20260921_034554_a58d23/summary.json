@@ -1,0 +1,15 @@
+{
+  "status": "stopped",
+  "error": null,
+  "source": "0",
+  "kind": "camera",
+  "model": "C:\\Users\\Beyza\\Desktop\\baretTespit\\models\\best.pt",
+  "confidence": 0.5,
+  "frames": 1493,
+  "fps": 30.0,
+  "elapsed_seconds": 98.64,
+  "detections_across_frames": {
+    "helmet": 319
+  },
+  "note": "Kareler toplamı benzersiz kişi sayısı değildir. Video ses içermez. Kamera kaydı nominal FPS ile yazılır; işleme hızına göre zaman ölçeği değişebilir."
+}

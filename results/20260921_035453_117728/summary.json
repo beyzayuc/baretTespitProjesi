@@ -1,0 +1,15 @@
+{
+  "status": "stopped",
+  "error": null,
+  "source": "C:/Users/Beyza/Desktop/baretTespit/test_videos/baretli_iki_calisan.mp4",
+  "kind": "video",
+  "model": "C:\\Users\\Beyza\\Desktop\\baretTespit\\models\\best.pt",
+  "confidence": 0.5,
+  "frames": 152,
+  "fps": 25.0,
+  "elapsed_seconds": 13.02,
+  "detections_across_frames": {
+    "helmet": 304
+  },
+  "note": "Kareler toplamı benzersiz kişi sayısı değildir. Video ses içermez. Kamera kaydı nominal FPS ile yazılır; işleme hızına göre zaman ölçeği değişebilir."
+}

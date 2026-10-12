@@ -1,0 +1,16 @@
+{
+  "status": "stopped",
+  "error": null,
+  "source": "C:/Users/Beyza/Desktop/baretTespit/test_videos/baretsiz.mp4",
+  "kind": "video",
+  "model": "C:\\Users\\Beyza\\Desktop\\baretTespit\\models\\best.pt",
+  "confidence": 0.5,
+  "frames": 242,
+  "fps": 25.0,
+  "elapsed_seconds": 18.4,
+  "detections_across_frames": {
+    "helmet": 318,
+    "head": 165
+  },
+  "note": "Kareler toplamı benzersiz kişi sayısı değildir. Video ses içermez. Kamera kaydı nominal FPS ile yazılır; işleme hızına göre zaman ölçeği değişebilir."
+}

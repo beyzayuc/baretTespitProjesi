@@ -1,0 +1,11 @@
+path: C:/Users/Beyza/Desktop/baretTespit
+
+train: train/images
+val: test/images
+test: test/images
+
+nc: 3
+names:
+  0: head
+  1: helmet
+  2: person

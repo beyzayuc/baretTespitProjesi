@@ -1,0 +1,19 @@
+{
+  "settings_version": "0.0.8",
+  "datasets_dir": "C:\\Users\\Beyza\\Desktop\\baretTespit\\datasets",
+  "weights_dir": "weights",
+  "runs_dir": "runs",
+  "uuid": "d11337e8880e3e6134cdf6d1085151f4324c0b91054719ca346f19a61084be3f",
+  "sync": true,
+  "api_key": "",
+  "openai_api_key": "",
+  "clearml": true,
+  "comet": true,
+  "dvc": true,
+  "mlflow": true,
+  "raytune": true,
+  "tensorboard": false,
+  "wandb": false,
+  "vscode_msg": true,
+  "openvino_msg": true
+}
